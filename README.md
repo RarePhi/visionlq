@@ -1,5 +1,4 @@
 # visionlq
-Intertextual Media Interactive
 ~ $ cd RarePhi.github.io
 ~ $ echo "Hello World" > index.html
 ~$ git add --all
